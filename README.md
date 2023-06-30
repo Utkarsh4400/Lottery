@@ -1,4 +1,3 @@
-# Lottery
 # Decentralized lottery application
 
 ### In this project I have created a Smart Contract using Remix IDE.
