@@ -1,0 +1,2 @@
+# Lottery
+Decentralized lottery application
